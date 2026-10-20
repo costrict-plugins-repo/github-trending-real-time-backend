@@ -1,0 +1,9 @@
+{
+  "name": "real-time-backend",
+  "version": "1.0.0",
+  "description": "Real-time backend skill for building reactive, type-safe, production-grade backends",
+  "author": {
+    "name": "Seth Raphael",
+    "email": "seth@convex.dev"
+  }
+}
